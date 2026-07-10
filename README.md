@@ -5,12 +5,12 @@
     <img src="github.png" width="52" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/angelinasprague">
-    <img src="linkedin.png" width="52" alt="LinkedIn"/>
+  <a href="mailto:angelinaspragueportfolio@gmail.com">
+    <img src="email.png" width="68" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:angelinaspragueportfolio@gmail.com">
-    <img src="email.png" width="52" alt="Email"/>
+  <a href="https://www.linkedin.com/in/angelinasprague">
+    <img src="linkedin.png" width="52" alt="LinkedIn"/>
   </a>
 </p>
 
