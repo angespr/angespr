@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://angespr.github.io/portfolio/">
-    <img src="./assets/Angelina_README_Banner.png" alt="Profile Banner" width="100%" />
-  </a>
-</p>
+[![bg][banner]][website]
+
 
 <p align="center">
   <a href="https://github.com/angespr">
@@ -17,3 +14,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+[banner]: Angelina_README_Banner.png
+[website]: https://angespr.github.io/portfolio/
